@@ -1,0 +1,12 @@
+../Src/02-HAL/03-MCP/MCP2515_Program.c:18:4:MCP2515_U8ReadRegister	24	static
+../Src/02-HAL/03-MCP/MCP2515_Program.c:39:6:MCP2515_VidWriteRegister	16	static
+../Src/02-HAL/03-MCP/MCP2515_Program.c:52:6:MCP2515_VidSetBitTiming	16	static
+../Src/02-HAL/03-MCP/MCP2515_Program.c:59:6:MCP2515_VidReset	8	static
+../Src/02-HAL/03-MCP/MCP2515_Program.c:71:6:MCP2515_VidChangeBits	16	static
+../Src/02-HAL/03-MCP/MCP2515_Program.c:85:6:MCP2515_VidSetMode	16	static
+../Src/02-HAL/03-MCP/MCP2515_Program.c:93:6:MCP2515_VidInit	16	static
+../Src/02-HAL/03-MCP/MCP2515_Program.c:112:6:MCP2515_VidSendCANmsg	40	static
+../Src/02-HAL/03-MCP/MCP2515_Program.c:164:6:MCP2515_VidSetRollover	16	static
+../Src/02-HAL/03-MCP/MCP2515_Program.c:169:6:MCP2515_VidSetMask	16	static
+../Src/02-HAL/03-MCP/MCP2515_Program.c:209:6:MCP2515_VidReceiveInit	16	static
+../Src/02-HAL/03-MCP/MCP2515_Program.c:233:6:MCP2515_VidReceiveCANmsg	8	static

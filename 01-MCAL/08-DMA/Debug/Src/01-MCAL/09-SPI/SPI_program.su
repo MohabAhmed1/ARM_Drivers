@@ -1,0 +1,4 @@
+../Src/01-MCAL/09-SPI/SPI_program.c:24:14:SPI_Init	24	static
+../Src/01-MCAL/09-SPI/SPI_program.c:120:14:SPI_u8SynchTransceive	32	static
+../Src/01-MCAL/09-SPI/SPI_program.c:166:4:SPI_u8SynchTransceiveByte	24	static
+../Src/01-MCAL/09-SPI/SPI_program.c:191:6:SPI_voidChipSelect	16	static
